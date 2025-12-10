@@ -1,0 +1,6 @@
+bonus_video/
+test_videos/
+dataset.csv
+submission_answer.csv
+__pycache__/
+*.pt
