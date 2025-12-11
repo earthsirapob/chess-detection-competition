@@ -1,5 +1,4 @@
-bonus_video/
-test_videos/
+*.mp4
 dataset.csv
 submission_answer.csv
 __pycache__/
